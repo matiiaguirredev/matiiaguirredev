@@ -31,7 +31,7 @@ Actualmente trabajando en **Solvatech**, donde diseño y desarrollo soluciones o
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matiiaguirredev&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
