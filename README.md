@@ -1,15 +1,50 @@
-<h1 align="center">Hi 👋, I'm Matias Leonardo Aguirre</h1>
-<h3 align="center">Full Stack Developer 👨🏻‍💻 | Php - CodeIgniter4/Laravel | MySQL | GitHub| Python | Html | Css | JavaScript & JQuery</h3>
+<h1 align="center">Matías Aguirre 👨🏻‍💻</h1>
+<h3 align="center">Full Stack Developer | PHP • Laravel • CodeIgniter • MySQL</h3>
 
-- 🔭 I’m currently working on **solvatech**
+---
 
-- 📫 How to reach me **matiasagui93@gmail.com**
+## 🚀 About Me
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/matiiaguirre/](https://www.linkedin.com/in/matiiaguirre/)
+Desarrollador Full Stack enfocado en construir sistemas reales, escalables y mantenibles.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/matiiaguirre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matiiaguirre" height="30" width="40" /></a>
-<a href="https://instagram.com/matiiaguirre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matiiaguirre" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@matiiaguirre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@matiiaguirre" height="30" width="40" /></a>
+Actualmente trabajando en **Solvatech**, donde diseño y desarrollo soluciones orientadas a negocio, no solo código.
+
+---
+
+## 🧠 Stack
+
+* Backend: PHP (Laravel, CodeIgniter 4)
+* Frontend: JavaScript, jQuery, HTML, CSS
+* Base de datos: MySQL
+* Herramientas: Git, Python
+
+---
+
+## 🧩 En qué estoy ahora
+
+* 🔭 Construyendo y evolucionando **Solvatech**
+* ⚙️ Mejorando arquitectura, rendimiento y escalabilidad
+* 📈 Enfocado en convertir sistemas en productos reales
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
 </p>
+
+---
+
+## 📫 Contacto
+
+* Email: [matiasagui93@gmail.com](mailto:matiasagui93@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/matiiaguirre/
+* Instagram: https://instagram.com/matiiaguirre
+* YouTube: https://www.youtube.com/@matiiaguirre
+
+---
+
+## ⚡ Enfoque
+
+Código útil, sistemas sólidos, visión a largo plazo.
