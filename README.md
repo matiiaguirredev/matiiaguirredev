@@ -6,7 +6,6 @@
 ## 🚀 About Me
 
 Desarrollador Full Stack enfocado en construir sistemas reales, escalables y mantenibles.
-
 Actualmente trabajando en **Solvatech**, donde diseño y desarrollo soluciones orientadas a negocio, no solo código.
 
 ---
@@ -28,20 +27,10 @@ Actualmente trabajando en **Solvatech**, donde diseño y desarrollo soluciones o
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matiiaguirredev&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Contacto
 
 * Email: [matiasagui93@gmail.com](mailto:matiasagui93@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/matiiaguirre/
-* Instagram: https://instagram.com/matiiaguirre
-* YouTube: https://www.youtube.com/@matiiaguirre
 
 ---
 
